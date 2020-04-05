@@ -8,13 +8,12 @@
 
 ## General info
 Model View Controller Java Spring Application which can open my 1-page travel webpage.  
-Java 8, Spring Framework 5.2.3, MVC, HTML5 & CSS3 Project ;)
+Java 8, Spring Framework 5.2.3, HTML5 & CSS3 Project ;)
 
 ## Technologies
 Project was created with:
 * `Java 8`
 * `Spring Framework 5.2.3`
-* `MVC`
 * `HTML5`
 * `CSS3`
 
